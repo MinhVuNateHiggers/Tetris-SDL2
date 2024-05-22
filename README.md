@@ -38,7 +38,7 @@ Esc : Thoát game
 
 + Khởi tạo bảng chơi game, và công thức xoay các khối hình được tham khảo từ kênh youtube [Yearning](https://www.youtube.com/@YearningCpp) 
 + Sử dụng AI (Chat GPT) để sửa lỗi và tối ưu hoá các đoạn code
-+ Âm thanh và cỡ chứ tìm kiếm trên Google
++ Âm thanh và phông chữ tìm kiếm trên Google
 
 ***Kế hoạch cải thiện trong tương lai***
 + Thiết kế thêm pause menu
