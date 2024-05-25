@@ -15,6 +15,7 @@
 
 
 # ***Control:***
+Enter : Chơi game
 
 ↑ : Xoay các khối theo chiều kim đồng hồ
 
