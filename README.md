@@ -36,7 +36,7 @@ Esc : Thoát game
 # Extras
 ***Nguồn tham khảo :***
 
-+ Khởi tạo bảng chơi game, và công thức xoay các khối hình được tham khảo từ kênh youtube [Yearning](https://www.youtube.com/@YearningCpp) 
++ Khởi tạo bảng chơi game, và công thức xoay các khối hình được tham khảo từ kênh youtube [Yearning](https://www.youtube.com/@YearningCpp) và xử lí khối hộp của [Kisielewski]
 + Sử dụng AI (Chat GPT) để sửa lỗi và tối ưu hoá các đoạn code
 + Âm thanh và phông chữ tìm kiếm trên Google
 
