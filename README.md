@@ -37,7 +37,7 @@ Esc : Thoát game
 # Extras
 ***Nguồn tham khảo :***
 
-+ Core logic của game, menu, và công thức xoay các khối hình được tham khảo từ kênh youtube [Yearning](https://www.youtube.com/@YearningCpp) và [Kisielewski]
++ Core logic của game và công thức xoay các khối hình được tham khảo từ kênh youtube [Yearning](https://www.youtube.com/@YearningCpp) và [Kisielewski]
 + Sử dụng AI (Chat GPT) để sửa lỗi và tối ưu hoá các đoạn code
 + Âm thanh và phông chữ tìm kiếm trên Google
 
